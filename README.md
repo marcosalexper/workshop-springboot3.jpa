@@ -8,6 +8,10 @@ O projeto consiste em um gerenciamento de usuários e pedidos, incluindo funcion
 - JPA/Hibernate
 - H2 Database
 - Postman
+## Modelo Conceitual
+![Modelo Conceitual](https://github.com/marcosalexper/workshop-springboot3.jpa/blob/main/src/main/resources/image/Modeloconceitual.png)
+
+
 ## Autor
 
 * Marcos Alexandre Pereira.
